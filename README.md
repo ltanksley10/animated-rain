@@ -1,2 +1,2 @@
 # animated-rain
-Falling rain SVGs and CSS animations
+Falling rain using SVGs and CSS animations
